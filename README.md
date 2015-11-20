@@ -3,9 +3,9 @@ A portfolio for ShrugGuy. ShrugGuy is a designer, developer, beer drinker, and b
 
 
 ##Intro
-A collaborative project of developers and designers to pratice building a fictious portfolio for the world class designer and developer ShrugGuy
+A collaborative project of developers and designers to practice building a fictitious portfolio for the world class designer and developer ShrugGuy
 
-Anyone is welcome to contribute. Thre is no requirements or expectations of time or effort put in. You get out what you put in. There are no prerequisites. We're at different experience levels, with different skills.
+Anyone is welcome to contribute. There is no requirements or expectations of time or effort put in. You get out what you put in. There are no prerequisites. We're at different experience levels, with different skills.
 
 ##Project Foundation
 The basic foundation of this project to get it kicked off are
